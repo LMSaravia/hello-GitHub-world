@@ -39,6 +39,14 @@ https://guides.github.com/introduction/flow/
       -Open a Pull Request
       -Merge a Pull Request (and Delete a Branch)
     
+  3-GitHub Learning Resources
+    -GitHub Guides: https://guides.github.com/
+    -GitHub Training & Guides YouTube channel: https://www.youtube.com/user/GitHubGuides
+    -The GitHub Blog: https://github.com/blog
+    -Start Learning Git and GitHub Today with Self-Paced Training: 
+      https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training
+    
+    
   
     
   
