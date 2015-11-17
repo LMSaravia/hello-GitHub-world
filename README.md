@@ -40,6 +40,8 @@
 - [The GitHub Blog] (https://github.com/blog)
 - [Start Learning Git and GitHub Today with Self-Paced Training] (https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)
     
-####4-[Explore Projects on GitHub] (https://github.com/explore)
-  
-####5-[GitHub Help] (https://help.github.com)
+####4-[GitHub Help] (https://help.github.com)
+
+####5-[Explore Projects on GitHub] (https://github.com/explore)
+
+####6- [Markdown Basics] (https://help.github.com/articles/markdown-basics/)  
