@@ -49,3 +49,6 @@ https://guides.github.com/introduction/flow/
   4-Explore Projects on GitHub
   https://github.com/explore
   
+  5-GitHub Help
+  https://help.github.com
+  
