@@ -1,9 +1,8 @@
 # hello-GitHub-world
-Repository for GitHub use related information
+##Repository for GitHub use related information
 
-1-Understanding the GitHub Flow
-https://guides.github.com/introduction/flow/
-  Summary:
+###1-[Understanding the GitHub Flow] (https://guides.github.com/introduction/flow/)
+  ####Summary:
     Branches:
       When you create a branch in your project, you're creating an environment where you can try out new ideas.
       There's only one rule: anything in the master branch is always deployable.
@@ -28,9 +27,8 @@ https://guides.github.com/introduction/flow/
     By incorporating certain keywords into the text of your Pull Request, you can associate issues with code. When
     your Pull Request is merged, the related issues are also closed.
     
-  2-Hello World
-  https://guides.github.com/activities/hello-world/
-    Summary:
+###2-[Hello World] (https://guides.github.com/activities/hello-world/)
+  ####Summary:
     Explains step by step how to: 
       -Create a Repository
       -Open an Issue
@@ -39,16 +37,13 @@ https://guides.github.com/introduction/flow/
       -Open a Pull Request
       -Merge a Pull Request (and Delete a Branch)
     
-  3-GitHub Learning Resources
-    -GitHub Guides: https://guides.github.com/
-    -GitHub Training & Guides YouTube channel: https://www.youtube.com/user/GitHubGuides
-    -The GitHub Blog: https://github.com/blog
-    -Start Learning Git and GitHub Today with Self-Paced Training: 
-      https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training
+###3-GitHub Learning Resources 
+    -[GitHub Guides] (https://guides.github.com/)
+    -[GitHub Training & Guides YouTube channel] (https://www.youtube.com/user/GitHubGuides)
+    -[The GitHub Blog] (https://github.com/blog)
+    -[Start Learning Git and GitHub Today with Self-Paced Training] (https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)
     
-  4-Explore Projects on GitHub
-  https://github.com/explore
+###4-[Explore Projects on GitHub] (https://github.com/explore)
   
-  5-GitHub Help
-  https://help.github.com
+###5-[GitHub Help] (https://help.github.com)
   
