@@ -39,9 +39,13 @@
 - [GitHub Training & Guides YouTube channel] (https://www.youtube.com/user/GitHubGuides)
 - [The GitHub Blog] (https://github.com/blog)
 - [Start Learning Git and GitHub Today with Self-Paced Training] (https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)
+- [Wheelhouse] (https://training.github.com/classes/developers/)
     
 ####4-[GitHub Help] (https://help.github.com)
 
-####5-[Explore Projects on GitHub] (https://github.com/explore)
+####5-[Contact GitHub] (https://github.com/contact)
+If you ever need to contact humans.
 
-####6- [Markdown Basics] (https://help.github.com/articles/markdown-basics/)  
+####6-[Explore Projects on GitHub] (https://github.com/explore)
+
+####7- [Markdown Basics] (https://help.github.com/articles/markdown-basics/)  
